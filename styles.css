@@ -1,0 +1,11 @@
+.sync-your-mood-container {
+    background-color: #F8CD43;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.sync-your-mood-text {
+    font-weight: 800; /* Equivalent to font-extrabold */
+}
